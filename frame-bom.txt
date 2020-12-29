@@ -1,0 +1,21 @@
+wall-hanging frame build of materials
+
+--- nuts and bolts
+
+--- the following appear in multiples of 3 for 3 vertical beams
+ 3x 2"x4"x8'
+ 3x garage door hinge #3
+ 3x 2' 0.75" half channel superstrut (each to be cut in half)
+ 3x superstrut L bracket (to create an adjustable superstrut L bracket)
+12x superstrut 3/8" cone nuts (to attach the superstruts to the L bracket)
+ 3x 3/8" T-nuts
+--- the following are for attaching the horizontal beams, motors, and support legs
+ 1x 10' 1.5" channel superstrut (for the top rail)
+ 1x 10' 0.75" channel superstrut (for the bottom rail)
+ 4x superstrut 1/4" cone nuts (the motor brackets can be filed slightly so that a 1/4" bolt can be used)
+ 2x 3/4" superstrut cobra pipe clamp (to attach adjustable length supports)
+ 1x 5' 3/4" conduit tubing (to be cut in half and used as two adjustable support lengths)
+
+assembly instructions
+1) the 8' length 2"x4" 
+2) cut the 2' superstrut in half
